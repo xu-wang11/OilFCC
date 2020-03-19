@@ -6,7 +6,7 @@
 - [ ] 网站系统结构初步搭建
 - [ ] DeepStream 服务封装
 
-###已完成
+### 已完成
 - [x] Docker工作调研
 - [x] DeepStream初步调研
 
